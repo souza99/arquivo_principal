@@ -1,3 +1,15 @@
+//1 - UM DOS PROBLEMAS É A QUNATIDADE MACIVA DE COMENTARIOS, POIS POLUI MUITO O CÓDIGO
+// CERTO É COMENTAR SÓ QUANDO NECESSARIO
+
+//2 - Retirar o cont pois não precisa, o arquivo vai executar apenas uma vez
+
+//3 - O nome das classes(WIDGETS) não descrevem o que elas fazem
+
+//4 - O home não permite que mais rotas sejam declaradas, está fixo na home
+
+//5 - Identacao do código confisa
+//    -> (criacao de objetos na passagem e parametros)
+
 import 'package:flutter/material.dart';
 
 void main() {
